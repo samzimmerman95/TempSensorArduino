@@ -1,0 +1,8 @@
+{
+  "comment": "Touched the sensors one by one from top to bottom to determine the order the data is sent vs the order the sensors are in. Use this info to reorder so DB has values in the order which aligns with the real world.",
+  "1660156424": ["71.65", "71.53", "74.9", "71.61", "71.68"],
+  "1660156447": ["71.65", "71.53", "74.56", "71.61", "75.74"],
+  "1660156481": ["71.65", "78.17", "73.55", "71.61", "74.72"],
+  "1660156522": ["71.76", "76.03", "72.99", "75.78", "73.49"],
+  "1660156550": ["78.74", "74.9", "72.76", "74.43", "73.15"]
+}
